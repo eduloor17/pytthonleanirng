@@ -1,1 +1,1 @@
-project to apply object orientation in python # pytthonleanirng
+Project to apply object orientation in python # Pytthon Learning
